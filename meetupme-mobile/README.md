@@ -33,3 +33,6 @@
 - Update Deps
 - Update my eslint config
 - Show how to auto fix in vsc and terminal
+- Make route block if no auth
+- Talk about design
+- Create the Auth page

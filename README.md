@@ -51,3 +51,6 @@ https://www.npmjs.com/package/eslint-config-equimper
 ## My snippets packages
 
 https://marketplace.visualstudio.com/items?itemName=EQuimper.react-native-react-redux
+
+Stumpled upon via youtube https://www.youtube.com/watch?v=KZWLd7OwQF8  this is VERY exciting!!
+
